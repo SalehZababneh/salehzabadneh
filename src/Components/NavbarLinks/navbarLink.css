@@ -1,0 +1,55 @@
+.active {
+    background-color: transparent;
+
+    border-radius: 20px;
+    padding: 10px 12px;
+    font-weight: bold;
+    color: #1A1A1A;
+    transition: background-color .5s ease;
+}
+
+.active:hover {
+    background-color: #111;
+    color: #fff;
+}
+
+@media (max-width: 992px) {
+    .active {
+        padding: 8x 10px;
+    }
+
+    .active:hover {}
+
+}
+
+@media (max-width: 768px) {
+    .active {
+        padding: 6x 8px;
+    }
+
+    .active:hover {}
+
+}
+
+@media (max-width: 576px) {
+    .active {
+        padding: 4x 6px;
+    }
+
+    .active:hover {}
+
+
+    .active {}
+
+    .active:hover {}
+
+}
+
+@media (max-width: 320px) {
+    .active {
+        padding: 2x 4px;
+    }
+
+    .active:hover {}
+
+}
