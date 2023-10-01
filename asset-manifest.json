@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/salehzabadneh/static/css/main.1e602219.css",
+    "main.js": "/salehzabadneh/static/js/main.fe099ad0.js",
+    "static/media/yoctofy-backg.png": "/salehzabadneh/static/media/yoctofy-backg.55083532840d6545de0b.png",
+    "static/media/munasabat1.png": "/salehzabadneh/static/media/munasabat1.b00599160dafd3188866.png",
+    "static/media/workImg1.jpg": "/salehzabadneh/static/media/workImg1.0e5bf12b2871455efc1c.jpg",
+    "static/media/tripApp.png": "/salehzabadneh/static/media/tripApp.b45297bf584be3b08470.png",
+    "static/media/shop.jpg": "/salehzabadneh/static/media/shop.6055462cfb41dadbab4d.jpg",
+    "static/media/popcornimg.png": "/salehzabadneh/static/media/popcornimg.90acf920b7fe46c16360.png",
+    "static/media/Frame3.jpg": "/salehzabadneh/static/media/Frame3.e4acc9df12f334709655.jpg",
+    "static/media/personSvg.png": "/salehzabadneh/static/media/personSvg.3950033781b994e3859b.png",
+    "static/media/tooltip.svg": "/salehzabadneh/static/media/tooltip.84fbc642f8163d2a12be1ffb61187022.svg",
+    "static/media/socialMediaPlatform.jpg": "/salehzabadneh/static/media/socialMediaPlatform.4584b9ad954bb30a0b67.jpg",
+    "static/media/noise.png": "/salehzabadneh/static/media/noise.db8b66b8af2fad2a51d9.png",
+    "index.html": "/salehzabadneh/index.html",
+    "main.1e602219.css.map": "/salehzabadneh/static/css/main.1e602219.css.map",
+    "main.fe099ad0.js.map": "/salehzabadneh/static/js/main.fe099ad0.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1e602219.css",
+    "static/js/main.fe099ad0.js"
+  ]
+}
